@@ -5,4 +5,5 @@ class BMI
 end
 
 bmi = BMI.new
+
 puts bmi.calculator(80,1.85)
